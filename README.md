@@ -8,7 +8,7 @@ Projects Showcase: A curated selection of my best work with detailed description
 Contact Section: Easily connect with me via email, LinkedIn, or GitHub.
 
 # 🛠️ Technologies Used:
-Frontend: HTML, CSS, JavaScript.
+Frontend: HTML, CSS, JavaScript.  
 Hosting: GitHub Pages.
 
 # 🌟 What You'll Find:
@@ -19,8 +19,8 @@ A blog or resources section (if applicable) to share my insights and learnings.
 # 📫 Contact Me:
 Feel free to reach out if you're interested in collaborating or have any questions!
 
-Email: suhasbr380@gmail.com
-LinkedIn: https://www.linkedin.com/in/suhas-b-r-b39a7b31a/
-GitHub: https://github.com/SuhasB-R
+Email: suhasbr380@gmail.com  
+LinkedIn: https://www.linkedin.com/in/suhas-b-r-b39a7b31a/  
+GitHub: https://github.com/SuhasB-R  
 
 # Thank you for visiting my portfolio repository!
